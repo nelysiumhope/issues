@@ -5,4 +5,4 @@ All issues except for Pull Requests must be opened on this repository instead of
 
 You can find the code on the [(N)ElysiumHope organization page on GitHub](https://github.com/nelysiumhope). Currently the following repositories exist:
 
-* [Classic](https://github.com/nelysiumhope/server)
+* [Classic](https://github.com/nelysiumhope/vmangos-core)
